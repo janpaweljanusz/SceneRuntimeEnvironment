@@ -4,6 +4,9 @@ namespace Globals
 {
     public class GlobalObjects
     {
+        /// <summary>
+        /// in further, actuall implementation warning disable will not be necessary. 
+        /// </summary>
         public class EngineModule
         {
 #pragma warning disable CS1998 // Async method lacks 'await' operators and will run synchronously
