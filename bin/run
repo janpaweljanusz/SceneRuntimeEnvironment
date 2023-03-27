@@ -1,0 +1,1 @@
+dotnet run --project ./SceneRuntimeEnvironment.csproj --verbosity q   /property:WarningLevel=0
